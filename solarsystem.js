@@ -2,6 +2,7 @@ var SolarSystem = (function(){
 
 	var planets = ["mercury", "venus", "earth", "mars", "jupiter", "saturn", "uranus", "neptune"];
 	var numPlanetsPeopleLandedOn = 0;
+	var dwarfPlanets = [pluto];
 	var spaceships = [];
 	var stars = ["Sun", "Alpha Centuari", "Wolf 359"]
 
